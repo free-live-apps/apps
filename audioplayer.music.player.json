@@ -2,7 +2,7 @@
  "info": [
    {
     "package_name":"audioplayer.music.player",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
