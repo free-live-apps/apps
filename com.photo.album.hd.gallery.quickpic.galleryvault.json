@@ -22,7 +22,7 @@
       "message": "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
       "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "cust_isshow": "false"
     },
     {
       "package_name": "com.photo.album.hd.gallery.quickpic.galleryvault",
@@ -46,7 +46,7 @@
       "message": "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
       "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "cust_isshow": "false"
     },
     {
       "package_name": "com.photo.album.hd.gallery.quickpic.galleryvault",
@@ -70,7 +70,7 @@
       "message": "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
       "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "cust_isshow": "false"
     },
     {
       "package_name": "com.photo.album.hd.gallery.quickpic.galleryvault",
@@ -94,7 +94,7 @@
       "message": "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
       "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "cust_isshow": "false"
     },
     {
       "package_name": "com.photo.album.hd.gallery.quickpic.galleryvault",
@@ -118,7 +118,7 @@
       "message": "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
       "custom_adurl": "https://agripathshala.com/wp-content/uploads/2020/01/whatspp-768x209-1.png",
       "customad_pkg": "com.whatsapp",
-      "cust_isshow": "true"
+      "cust_isshow": "false"
     }
   ]
 }
